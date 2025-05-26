@@ -121,8 +121,6 @@ STATICFILES_DIRS = [BASE_DIR / 'static']
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 
-print("Base dir ", BASE_DIR)
-print("static root", STATIC_ROOT)
 
 
 # Default primary key field type
